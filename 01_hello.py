@@ -1,9 +1,8 @@
-import os
+#bhavik bhuva this is single line comment😎
 
 
-#bhavik bhuva
 '''hello guys this
-is comment
+is multi linecomment
 hahaha😂😂😂'''
  
 print("Twinkle twinkle little star \n How i wonder what you are")
