@@ -7,4 +7,7 @@ hahaha😂😂😂'''
  
 print("Twinkle twinkle little star \n How i wonder what you are")
 
+print('''Twinkle twinkle little star
+ How i wonder what you are''')
+
 
