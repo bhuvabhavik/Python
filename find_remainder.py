@@ -1,4 +1,4 @@
-from tokenize import Double
+
 
 
 quotiont =int(input("Enter the quotiont :- "))

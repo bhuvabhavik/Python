@@ -3,6 +3,7 @@ a=10
 A=20
 b="Bhavik"
 b1='Bhavik Bhuva'
+b11="I'm CSE Student"
 b2='''Bhuva
 Bhavik
 Mansukhbhai'''
@@ -28,4 +29,6 @@ print(type(b2))
 print(type(c))
 print(type(d))
 print(type(e))
+
+
 
