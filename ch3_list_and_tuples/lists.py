@@ -1,6 +1,5 @@
-# Create lists using [] 
 a=[1,2,"Bhavik",4,5.85]   # we can create mix types lists
-
+# Create lists using [] 
 
 #changing the lists value
 a[2] = "Bhavik Bhuva"
